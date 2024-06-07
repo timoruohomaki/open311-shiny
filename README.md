@@ -1,2 +1,2 @@
 # open311-shiny
-Shiny dashboard examples using the Botson Open311 datasets
+Shiny dashboard examples using the Boston Open311 datasets
