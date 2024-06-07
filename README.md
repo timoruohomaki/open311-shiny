@@ -1,4 +1,4 @@
-# open311-shiny
+# Open311 Control Room
 
 Shiny dashboard examples using the Boston Open311 datasets
 
